@@ -1,5 +1,5 @@
-<response>
-<say voice=alice>
+<Response>
+<Say voice=alice>
 The price of your product has been reduced. Please check your email for further information. Thank you and have a nice day!
-</say>
-</response>
+</Say>
+</Response>
